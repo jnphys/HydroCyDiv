@@ -19,4 +19,4 @@ Each project is organized into its respective folder and includes the following 
 Do not hesitate to explore each folder to gain insights into data analysis methodologies and each project's findings.
 
 ## Contact
-If you have questions or suggestions for improvements and additional analyses, please contact javad.najafi@ijm.fr!
+If you have questions or suggestions for improvements and additional analyses, please contact javad.najafi[at]ijm.fr!
